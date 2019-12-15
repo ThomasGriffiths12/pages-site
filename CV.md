@@ -17,19 +17,19 @@ I am a recent graduate of Staffordshire University, with a degree in BSc (Hons) 
 
 ## Skills:
 
--Strong understanding of computer hardware and software.
--Some knowledge of CG software and tools, such as Photoshop, Blender and Maya.
--Good knowledge of C++, C# and Lua programming languages.
--Experience working with Unity 3D
--Experience with .NET, DirectX and OpenGL frameworks.
--Good knowledge of Advanced 3D Graphics techniques, such as parallax occlusion mapping and procedural terrain generation.
--Good problem-solving skills.
--Excellent communication skills.
--Good organisational skills.
--Ability to work independently as well as in a group.
--Experienced with multiple source control software such as GitHub, Perforce and Bitbucket.
--I can perform well under pressure of deadlines in a fast-paced work environment.
--Good teamwork skills, demonstrable from work done in college and university.
+-Strong understanding of computer hardware and software. <br>
+-Some knowledge of CG software and tools, such as Photoshop, Blender and Maya. <br>
+-Good knowledge of C++, C# and Lua programming languages. <br>
+-Experience working with Unity 3D <br>
+-Experience with .NET, DirectX and OpenGL frameworks. <br>
+-Good knowledge of Advanced 3D Graphics techniques, such as parallax occlusion mapping and procedural terrain generation. <br>
+-Good problem-solving skills. <br>
+-Excellent communication skills. <br>
+-Good organisational skills. <br>
+-Ability to work independently as well as in a group. <br>
+-Experienced with multiple source control software such as GitHub, Perforce and Bitbucket. <br>
+-I can perform well under pressure of deadlines in a fast-paced work environment. <br>
+-Good teamwork skills, demonstrable from work done in college and university. <br>
 
 ---
 
@@ -63,9 +63,9 @@ During my one-week work experience I was tasked with learning how to use the com
 
 ## Interests:
 
-I enjoy regularly going to conventions, such as comic-cons, as they allow me to meet and socialize with people who enjoy the same hobbies and interests as I do.
-I enjoy puzzle solving, whether in a videogame, book or puzzle format, as it develops my problem-solving skills, which is useful to have as a programmer.
-I also enjoy collecting and building complex Lego sets as they help to express my creativity.
-I also enjoy playing videogames, as they provide me with experiences that I would be unable to obtain in a real-life environment. 
+I enjoy regularly going to conventions, such as comic-cons, as they allow me to meet and socialize with people who enjoy the same hobbies and interests as I do. <br>
+I enjoy puzzle solving, whether in a videogame, book or puzzle format, as it develops my problem-solving skills, which is useful to have as a programmer. <br>
+I also enjoy collecting and building complex Lego sets as they help to express my creativity. <br>
+I also enjoy playing videogames, as they provide me with experiences that I would be unable to obtain in a real-life environment and as such also help to fuel my creativity. <br> 
 
 ---
