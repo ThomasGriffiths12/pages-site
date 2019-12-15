@@ -1,5 +1,5 @@
 # Thomas Griffiths Portfolio
-[CV](https://thomasgriffiths12.github.io/CV)
+# [HOME](https://thomasgriffiths12.github.io) / [CV](https://thomasgriffiths12.github.io/CV) / [Portfolio](https://thomasgriffiths12.github.io/Portfolio)
 # Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
