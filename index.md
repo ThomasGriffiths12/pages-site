@@ -5,5 +5,4 @@
 # Home
 ---
 ## About
----
 Hello and welcome to my portfolio website. Contained within the pages of this site reside some of the projects I have worked on over the years, including both university and personal projects.
