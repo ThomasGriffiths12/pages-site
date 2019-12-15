@@ -3,9 +3,9 @@
 ---
 
 ## Personal Details
-Onnyglen, Newton Street, Craven Arms, SY7 9PQ
-07498 805833
-*thomasgriffiths12@yahoo.co.uk*
+Onnyglen, Newton Street, Craven Arms, SY7 9PQ <br>
+07498 805833 <br>
+*thomasgriffiths12@yahoo.co.uk* <br>
 
 ---
 
@@ -17,19 +17,19 @@ I am a recent graduate of Staffordshire University, with a degree in BSc (Hons) 
 
 ## Skills:
 
-*Strong understanding of computer hardware and software.
-*Some knowledge of CG software and tools, such as Photoshop, Blender and Maya.
-*Good knowledge of C++, C# and Lua programming languages.
-*Experience working with Unity 3D
-*Experience with .NET, DirectX and OpenGL frameworks.
-*Good knowledge of Advanced 3D Graphics techniques, such as parallax occlusion mapping and procedural terrain generation.
-*Good problem-solving skills.
-*Excellent communication skills.
-*Good organisational skills.
-*Ability to work independently as well as in a group.
-*Experienced with multiple source control software such as GitHub, Perforce and Bitbucket.
-*I can perform well under pressure of deadlines in a fast-paced work environment.
-*Good teamwork skills, demonstrable from work done in college and university.
+-Strong understanding of computer hardware and software.
+-Some knowledge of CG software and tools, such as Photoshop, Blender and Maya.
+-Good knowledge of C++, C# and Lua programming languages.
+-Experience working with Unity 3D
+-Experience with .NET, DirectX and OpenGL frameworks.
+-Good knowledge of Advanced 3D Graphics techniques, such as parallax occlusion mapping and procedural terrain generation.
+-Good problem-solving skills.
+-Excellent communication skills.
+-Good organisational skills.
+-Ability to work independently as well as in a group.
+-Experienced with multiple source control software such as GitHub, Perforce and Bitbucket.
+-I can perform well under pressure of deadlines in a fast-paced work environment.
+-Good teamwork skills, demonstrable from work done in college and university.
 
 ---
 
