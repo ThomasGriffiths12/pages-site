@@ -36,8 +36,8 @@ I am a recent graduate of Staffordshire University, with a degree in BSc (Hons) 
 ## Education and Qualifications: 
 
 ### Staffordshire University:
-*BSc (Hons) Computer Games Programming: Third Class*
-Modules studied include Low Level Programming and Advanced Graphics and Real-Time Rendering
+*BSc (Hons) Computer Games Programming: Third Class* <br>
+Modules studied include Low Level Programming and Advanced Graphics and Real-Time Rendering <br>
 11 Month Placement: Agilent Technologies, Craven Arms, October 2017-August 2018
 
 ### Shrewsbury Sixth Form College:
