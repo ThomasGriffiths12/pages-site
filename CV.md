@@ -41,10 +41,10 @@ Modules studied include Low Level Programming and Advanced Graphics and Real-Tim
 11 Month Placement: Agilent Technologies, Craven Arms, October 2017-August 2018
 
 ### Shrewsbury Sixth Form College:
-BTEC Level 3 Subsidiary Diploma: IT: Distinction
-A Level: Use of Maths: D
-BTEC Level 3 Certificate: Applied Science: Pass
-AS Level: English Language: E
+-BTEC Level 3 Subsidiary Diploma: IT: Distinction <br>
+-A Level: Use of Maths: D <br>
+-BTEC Level 3 Certificate: Applied Science: Pass <br>
+-AS Level: English Language: E <br>
 
 ### Church Stretton Secondary School:
 10 GCSE’s with a grade between B and E, including Maths and English
