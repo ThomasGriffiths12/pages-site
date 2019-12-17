@@ -20,6 +20,7 @@ This algorithm can be iterated through multiple times to create more diverse ter
 The third and final algorithm is the hill/circle algorithm, which involves drawing a circle with a defined size on the height map. <br>
 The points of the map within the circle displace upwards relative to the position of the point within the circle, with points at the centre of the circle displacing more than those on the edge of the circle.<br> 
 This algorithm, like with fault line can be iterated through multiple times to create more diverse terrain heights.
+
 ---
 ## Github Repository
 [Terrain Generation Project] (https://github.com/ThomasGriffiths12/Terrain-Generation-Project)
