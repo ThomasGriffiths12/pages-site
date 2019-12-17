@@ -23,4 +23,4 @@ This algorithm, like with fault line can be iterated through multiple times to c
 
 ---
 ## Github Repository
-[Terrain Generation Project] (https://github.com/ThomasGriffiths12/Terrain-Generation-Project)
+[Terrain Generation Project](https://github.com/ThomasGriffiths12/Terrain-Generation-Project)
