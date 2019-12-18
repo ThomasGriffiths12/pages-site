@@ -3,7 +3,8 @@
 # [HOME](https://thomasgriffiths12.github.io) / [CV](https://thomasgriffiths12.github.io/CV) / [PORTFOLIO](https://thomasgriffiths12.github.io/Portfolio)
 ---
 
-## About this project
+## About this project:
+
 This project was created as part of an Advanced Graphics and Real-Time Rendering Module assignment completed during the course of the Computer Games Programming degree I completed at Staffordshire University and each of the features detailed below were implemented by myself onto a pre-existing DirectX 11 application framework supplied by the university.<br>
 ---
 ## Graphics features implemented and the architecture of the application
