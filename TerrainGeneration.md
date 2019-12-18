@@ -3,7 +3,7 @@
 # [HOME](https://thomasgriffiths12.github.io) / [CV](https://thomasgriffiths12.github.io/CV) / [PORTFOLIO](https://thomasgriffiths12.github.io/Portfolio)
 ---
 
-## About this project
+## About this project:
 
 This project was created as part of an Advanced Graphics and Real-Time Rendering Module assignement completed during the course of the Computer Games Programming degree I completed at Staffordshire University. <br>
 <br>
