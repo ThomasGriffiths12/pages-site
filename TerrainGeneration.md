@@ -5,7 +5,7 @@
 
 ## About this project:
 
-This project was created as part of an Advanced Graphics and Real-Time Rendering Module assignement completed during the course of the Computer Games Programming degree I completed at Staffordshire University. <br>
+This project was created as part of an Advanced Graphics and Real-Time Rendering Module assignment completed during the course of the Computer Games Programming degree I completed at Staffordshire University. <br>
 <br>
 This project is a showcase of multiple terrain generation techniques, from static terrain generation by using a pre-existing heightmap, to different algorithms that procedurally generate terrain, such as the diamond square, fault line and hill/circle algorithms.<br>
 <br>
