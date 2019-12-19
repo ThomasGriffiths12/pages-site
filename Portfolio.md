@@ -8,3 +8,7 @@
 ---
 ## Advanced Graphics Showcase Project
 [Advanced Graphics Showcase Project Page](https://thomasgriffiths12.github.io/AdvancedGraphics)
+
+---
+## Ducky Dash Group Project
+[Ducky Dash Group Project Page](https://thomasgriffiths12.github.io/DuckyDash)
